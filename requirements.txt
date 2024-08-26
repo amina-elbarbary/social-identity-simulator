@@ -1,0 +1,7 @@
+altair
+duckdb
+Jinja2
+numpy
+pandas
+pyreadr
+streamlit
